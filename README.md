@@ -1,0 +1,1 @@
+Request Tracker doesn't have the ability to lookup contacts via their phone numbers, so this is an API you can host that can interface directly with the SQL database that your Request Tracker sits on to pull the data for use in 3CX via the CRM integration.
